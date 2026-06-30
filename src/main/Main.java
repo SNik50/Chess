@@ -1,6 +1,5 @@
 package main;
-//1:48:30
-//https://youtu.be/jzCxywhTAUI?si=F-2VC4HkCX0fSAIK
+//castling is fun
 
 import javax.swing.*;
 
